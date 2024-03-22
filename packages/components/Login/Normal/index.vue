@@ -152,6 +152,11 @@ const handleLogin = () => {
 		width: 85%;
 		height: 47px;
 
+		&__wrapper {
+			background: none;
+			box-shadow: none;
+		}
+
 		input {
 			height: 47px;
 			padding: 12px 5px 12px 15px;
@@ -175,6 +180,7 @@ const handleLogin = () => {
 		border: 1px solid rgba(255, 255, 255, 0.1);
 		border-radius: 5px;
 	}
+
 	:deep(.beian) {
 		position: absolute;
 		bottom: 20px;
