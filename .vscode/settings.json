@@ -1,8 +1,8 @@
 {
 	"editor.codeActionsOnSave": {
-    "source.addMissingImports": false,
-    "source.organizeImports": true,
-    "source.fixAll": true
+    "source.addMissingImports": "never",
+    "source.organizeImports": "explicit",
+    "source.fixAll": "explicit"
   },
 	"editor.formatOnPaste": true,
 	"editor.formatOnSave": true,

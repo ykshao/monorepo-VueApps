@@ -6,9 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
-    "preview": "vite preview",
-    "test": "vitest related --run",
-    "coverage": "vitest run --coverage"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@vueapps/components": "workspace:^1.0.0",

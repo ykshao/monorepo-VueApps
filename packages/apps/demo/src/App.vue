@@ -15,5 +15,5 @@ import styleVariables from "@/styles/variables.less";
 provide("logo", logo);
 provide("settings", settings);
 provide("styleVariables", styleVariables);
-console.log(getAge());
+console.log("@vueapps/utils---------->", getAge());
 </script>

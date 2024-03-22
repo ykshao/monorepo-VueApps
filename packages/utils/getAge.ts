@@ -1,3 +1,3 @@
 export function getAge() {
-  return "25";
+	return "25";
 }
